@@ -1,2 +1,2 @@
 # surge-rules
-for myself
+自用规则，不定期更新。
